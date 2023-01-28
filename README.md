@@ -1,2 +1,2 @@
-# multi-label-classification
-Multi-label classification project
+# Multi-label classification project
+
